@@ -1,0 +1,47 @@
+section.top-page {
+  margin: 0 auto;
+  background-color: rgb(190, 209, 162);
+  height: 82vh;
+  padding: 25px;
+}
+header.header img {
+  width: 120px;
+}
+
+/*menu de navigation*/
+
+nav.nav {
+  display: flex;
+  list-style: none;
+  
+}
+nav.nav li {
+  color: white;
+
+}
+header.header {
+  display: flex;
+  align-items: center;
+}
+.big-title {
+  color: white;
+  font-size: 70px;
+  padding: 20px 50px;
+ font-family: 'Abril FatFace';
+}
+.landing-page {
+  padding: 20px 50px;
+}
+.scroll-down {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  
+}
+
+/*logos services*/
+
+.services {
+  display: flex;
+}
+
